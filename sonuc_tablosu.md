@@ -1,7 +1,5 @@
 # YZM 411 Bilgisayarlı Görü - Ödev 1: Deney Sonuçları ve Veri Tablosu
 
-Bu belge, deney boyunca kullanılan tüm parametrelerin ve elde edilen ham ölçüm değerlerinin özetini içermektedir.
-
 ## 1. Piksel İncelemesi (Koordinat: x=1500, y=2100)
 
 | Aydınlatma Koşulu | Orijinal BGR Değerleri | Dönüştürülmüş RGB Değerleri |
