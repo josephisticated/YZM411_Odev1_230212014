@@ -15,7 +15,7 @@ değiştiğini ve görüntü küçültmenin ayrıntı kaybına etkisini inceler.
 
 ## Dosya
 
-- [`YZM411_Odev1_Renk_Aydinlatma_Ornekleme_duzenlenmis.ipynb`](./YZM411_Odev1_Renk_Aydinlatma_Ornekleme.ipynb)
+- [`YZM411_Odev1_Renk_Aydinlatma_Ornekleme.ipynb`](./YZM411_Odev1_Renk_Aydinlatma_Ornekleme.ipynb)
 
 ## Gereksinimler
 
@@ -73,9 +73,10 @@ karşılaştırılır.
 
 ```text
 YZM411_Odev1_OgrenciNo/
-├── YZM411_Odev1_Renk_Aydinlatma_Ornekleme_duzenlenmis.ipynb
+├── YZM411_Odev1_Renk_Aydinlatma_Ornekleme.ipynb
 ├── rapor.pdf
 ├── sonuc_tablosu.csv
+├── kaynak_ve_yapay_zeka_beyan.md
 └── README.md
 ```
 
